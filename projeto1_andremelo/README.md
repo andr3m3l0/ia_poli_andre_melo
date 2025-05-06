@@ -6,9 +6,9 @@ Este projeto investiga como a profundidade de uma rede neural MLP afeta sua perf
 
 ## Estrutura do Projeto
 
-- `mnist_mlp_ruido.ipynb`: Notebook principal com treinamento, avaliação e visualização dos modelos.
+- `projeto1_andremelo.ipynb`: Notebook principal com treinamento, avaliação e visualização dos modelos.
 - `imagens/`: Contém imagens geradas para a apresentação (matrizes de confusão, curvas de aprendizado, erros de classificação, etc).
-- `apresentacao_final.pptx`: Slides com os resultados e análises do experimento.
+- `apresentacao_projeto1_andremelo.pptx`: Slides com os resultados e análises do experimento.
 
 ---
 
