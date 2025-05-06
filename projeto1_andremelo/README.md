@@ -67,4 +67,3 @@ Observou-se que modelos com mais camadas tendem a ser mais robustos ao ruído, m
 
 - [MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
 - TensorFlow Documentation: https://www.tensorflow.org/
-- Deep Learning with Python (François Chollet)
